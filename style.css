@@ -96,6 +96,9 @@ hr{
     .input{
         width: 70%;
     }
+    .main-container{
+        background-image: url(images/pattern-bg-mobile.png);
+    }
     .container{
         top:130px;
         flex-direction: column;
